@@ -1,13 +1,6 @@
-# Flutter Template
-This is a template for flutter code within the B.Y.O.C repository. Delete this section and use only the sections below.
-
-
-# Example Code Name Here
-```
-Delete this block - Put code description in this section.
-```
+# Service Locator Flutter/Dart Example
+This branch contains the example code for building a Service Locator in Flutter with Dart. This code utilizes the Logger
+code built in another branch ([flutter-logger](https://github.com/rmayobre/build-your-own-code/tree/flutter-logger)).
 
 ## References
-```
-Delete this block - Provide links to references/blog posts in this section.
-```
+Please refer to my [blog](https://ryan.mayobre.com/build-your-own-service-locator-in-dart-and-flutter/) post for a walk-through of the code.
