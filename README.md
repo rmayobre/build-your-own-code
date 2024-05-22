@@ -1,13 +1,5 @@
-# Flutter Template
-This is a template for flutter code within the B.Y.O.C repository. Delete this section and use only the sections below.
-
-
-# Example Code Name Here
-```
-Delete this block - Put code description in this section.
-```
+# Logger Flutter/Dart Example
+This branch contains the example code for building a logger in Flutter and Dart.
 
 ## References
-```
-Delete this block - Provide links to references/blog posts in this section.
-```
+Please refer to my [blog](https://ryan.mayobre.com/build-your-own-logger-in-dart-and-flutter/) post for a walk-through of the code.
